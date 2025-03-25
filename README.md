@@ -105,15 +105,9 @@
          <p> Estudante em Analise e Desenvolvimento de Sistema  </p>
          <p>Cyber security, segurança da informação</p>
          <p>Algortimos e logica de Programação, linguem Portugol, C, C++, C#, Python, Java e JavaScript</p>
-         <h3>2° Periodo Análise e desenvolvimento de Sistemas</h3>
+         <h3>3° Periodo Análise e desenvolvimento de Sistemas</h3>
  
-         <h3>Materias 1° Semestre </h3>
-         <p>Projeto de Software</p>
-         <p>Arquitetura e Organização de Computadores</p>
-         <p>Segurança e Auditoria de Sistemas</p>
-         <p> Redes de Computadores</p>
-         <p>interface e Usabilidade</p>
-         </li>
+         
      </article>
  </sections>
  <!--ver serviços e contatos-->
