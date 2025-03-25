@@ -12,10 +12,6 @@
      <a href="Quem sou eu.html"> Sobre mim</a>
  </div>
      
- 
-     <h3>Cursando Cyber Security, Segurança em nuvem - Sebrae<h3>
-     <h3>Cursando Desenvolvimento Web Front end - Plataforma Udemy <h3>
-         <h3>Cursando Fluter, Desenvolvimento de APP IOS e ANDROID - Plataforma Udemy<h3>
  <img src="imagem/Certificado SQL.png" />
      <img src="imagem/Cyber Security.png" />
      <img src="imagem/Logica de Programacao.png" />
