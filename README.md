@@ -101,7 +101,7 @@
          <p> Estudante em Analise e Desenvolvimento de Sistema  </p>
          <p>Cyber security, segurança da informação</p>
          <p>Algortimos e logica de Programação, linguem Portugol, C, C++, C#, Python, Java e JavaScript</p>
-         <h3>3° Terceiro Periodo Análise e desenvolvimento de Sistemas</h3>
+         <h3>3° Periodo Análise e desenvolvimento de Sistemas</h3>
  
          
      </article>
