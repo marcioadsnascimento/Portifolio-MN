@@ -143,7 +143,7 @@
          <a href="Quem sou eu.html"> Sobre mim</a>
      </div>
      <p>Marcio Silva Nascimento</p>
-     <li>Tenho 30 anos, estudando de superior em Análise e Desenvolvimento de Sistemas.</li>
+     <li>Tenho 31 anos, estudando de superior em Análise e Desenvolvimento de Sistemas 3° Periodo fomatura 2026.</li>
      <li>Capacidade Análitica.</li>
      <li>Experiência em liderança.</li>
      <li>Boa comunicação</li>
